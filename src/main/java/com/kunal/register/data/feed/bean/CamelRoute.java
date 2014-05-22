@@ -19,7 +19,7 @@ public class CamelRoute {
 
 	private CamelContext camelContext	= null;
 	// private final String DATA_STREAM_HOST	= "http://localhost:8080/data-stream-cache/";
-	private final String DATA_STREAM_HOST	= "http://cache-kunal.rhcloud.com/";
+	private final String DATA_STREAM_HOST	= "http4://cache-kunal.rhcloud.com/";
 	
 	/**
 	 * 
